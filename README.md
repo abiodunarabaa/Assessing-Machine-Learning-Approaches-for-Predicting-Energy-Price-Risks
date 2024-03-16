@@ -1,0 +1,2 @@
+# Assessing-Machine-Learning-Approaches-for-Predicting-Energy-Price-Risks
+ The project aims to evaluate the effectiveness of various machine learning methods in predicting the likelihood of new customers experiencing energy price increases. Utilizing the dataset provided in the CE802_P2_Data.zip file, the investigation will focus on comparing the performance of the following machine learning techniques:  
